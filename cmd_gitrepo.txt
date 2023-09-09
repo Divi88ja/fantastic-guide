@@ -1,0 +1,7 @@
+cd .\gitrepo\
+git init
+git add .
+git commit -m "gitrepo"
+git remote add origin https://github.com/Divi88ja/fantastic-guide.git
+git remote add origin https://github.com/Divi88ja/fantastic-guide.git
+git push -u origin master
